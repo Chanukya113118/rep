@@ -1,0 +1,12 @@
+#title{
+  margin-top: 80px;
+  background-color: #cde1bd;
+}
+#title h2,p{
+  display: inline-block;
+  color: #1e4c6e;
+}
+.title_cen{
+  text-align: center;
+  padding-top:20%;
+}
